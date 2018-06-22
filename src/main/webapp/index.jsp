@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Spring Full REST Demo</h2>
+<hr>
 </body>
 </html>
